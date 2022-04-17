@@ -1,3 +1,3 @@
 # Game
-word game
-Using Python, I wrote a code for the famous game Hangman.
+Hangman is a guessing game, in which the player tries to guess a word by suggesting letters within a certain number of guesses.
+Language: Python
